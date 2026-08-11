@@ -51,5 +51,5 @@ requires:
 
 ## 関連ページ
 
-- [運動の速さと向き（中級編）](motion-velocity.md)
-- [仕事とエネルギー（中級編）](work-and-energy.md)
+- [運動の速さと向き](motion-velocity.md)
+- [仕事とエネルギー](work-and-energy.md)

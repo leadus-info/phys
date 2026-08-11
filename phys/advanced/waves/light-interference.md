@@ -47,5 +47,5 @@ $$\lambda = \frac{d\sin\theta}{m} = \frac{2.0\times10^{-6}\times\sin30°}{1} = 2
 
 ## 関連ページ
 
-- [光の伝わり方（応用編）](light-propagation.md)
-- [波の干渉と回折（応用編）](wave-interference-diffraction.md)
+- [光の伝わり方](light-propagation.md)
+- [波の干渉と回折](wave-interference-diffraction.md)

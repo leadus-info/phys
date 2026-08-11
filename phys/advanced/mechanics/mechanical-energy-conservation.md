@@ -55,5 +55,5 @@ $$mgh = \frac{1}{2}mv^2 \quad\Longrightarrow\quad v = \sqrt{2gh} = \sqrt{2\times
 
 ## 関連ページ
 
-- [運動エネルギーと位置エネルギー（応用編）](kinetic-potential-energy.md)
-- [力学的エネルギーの保存（中級編）](../../intermediate/mechanics/mechanical-energy-conservation.md)
+- [運動エネルギーと位置エネルギー](kinetic-potential-energy.md)
+- [力学的エネルギーの保存](../../intermediate/mechanics/mechanical-energy-conservation.md)

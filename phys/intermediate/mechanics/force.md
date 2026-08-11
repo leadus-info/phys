@@ -74,6 +74,6 @@ $$\text{ばねの伸び} \propto \text{力の大きさ}$$
 
 ## 関連ページ
 
-- [水圧と浮力（中級編）](pressure-buoyancy.md)
-- [力の合成・分解（中級編）](force-composition.md)
-- [物と重さ（初級編）](../../beginner/mechanics/weight.md)
+- [水圧と浮力](pressure-buoyancy.md)
+- [力の合成・分解](force-composition.md)
+- [物と重さ](../../beginner/mechanics/weight.md)

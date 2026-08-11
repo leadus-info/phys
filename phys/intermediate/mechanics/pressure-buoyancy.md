@@ -57,5 +57,5 @@ $$\text{浮力} = \text{物体が押しのけた水の重さ}$$
 
 ## 関連ページ
 
-- [力の働き（中級編）](force.md)
-- [力の合成・分解（中級編）](force-composition.md)
+- [力の働き](force.md)
+- [力の合成・分解](force-composition.md)

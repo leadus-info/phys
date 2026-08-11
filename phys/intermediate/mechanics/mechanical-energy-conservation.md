@@ -48,5 +48,5 @@ $$\text{運動エネルギー} + \text{位置エネルギー} = \text{一定}$$
 
 ## 関連ページ
 
-- [仕事とエネルギー（中級編）](work-and-energy.md)
-- [振り子の運動（初級編）](../../beginner/mechanics/pendulum.md)
+- [仕事とエネルギー](work-and-energy.md)
+- [振り子の運動](../../beginner/mechanics/pendulum.md)

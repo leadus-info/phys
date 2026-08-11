@@ -43,6 +43,6 @@ $$P_{\text{損失}} = I^2R$$
 
 ## 関連ページ
 
-- [物質と電気抵抗（応用編）](resistance-and-matter.md)
-- [エネルギーとその利用（応用編）](../energy/energy-utilization.md)
-- [電磁誘導と発電（中級編）](../../intermediate/electromagnetism/electromagnetic-induction.md)
+- [物質と電気抵抗](resistance-and-matter.md)
+- [エネルギーとその利用](../energy/energy-utilization.md)
+- [電磁誘導と発電](../../intermediate/electromagnetism/electromagnetic-induction.md)

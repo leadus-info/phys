@@ -49,4 +49,4 @@ requires:
 
 ## 関連ページ
 
-- [光の反射・屈折（中級編）](reflection-refraction.md)
+- [光の反射・屈折](reflection-refraction.md)

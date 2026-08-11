@@ -57,5 +57,5 @@ $$r = \frac{1.0\times10^{-27}\times4.0\times10^{5}}{1.6\times10^{-19}\times0.20}
 
 ## 関連ページ
 
-- [電磁誘導と交流（応用編）](induction-and-ac.md)
-- [電流がつくる磁界（中級編）](../../intermediate/electromagnetism/magnetic-field.md)
+- [電磁誘導と交流](induction-and-ac.md)
+- [電流がつくる磁界](../../intermediate/electromagnetism/magnetic-field.md)

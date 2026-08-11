@@ -48,6 +48,6 @@ $$N_A \times 4 = 120 \times (4-1) \quad\Longrightarrow\quad N_A = 90\ \mathrm{N}
 
 ## 関連ページ
 
-- [曲線運動と放物運動（応用編）](curved-motion.md)
-- [力のつり合い（応用編）](force-balance.md)
-- [てこの規則性（初級編）](../../beginner/mechanics/lever.md)
+- [曲線運動と放物運動](curved-motion.md)
+- [力のつり合い](force-balance.md)
+- [てこの規則性](../../beginner/mechanics/lever.md)

@@ -45,5 +45,5 @@ $$mv_0 = mv_1' + mv_2', \qquad 1 = \frac{v_2'-v_1'}{v_0} \quad\Longrightarrow\qu
 
 ## 関連ページ
 
-- [運動量と力積（応用編）](momentum-impulse.md)
-- [力学的エネルギーの保存（応用編）](mechanical-energy-conservation.md)
+- [運動量と力積](momentum-impulse.md)
+- [力学的エネルギーの保存](mechanical-energy-conservation.md)

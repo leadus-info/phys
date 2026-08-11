@@ -45,5 +45,5 @@ $$v = \frac{c}{n} = \frac{3.0\times10^8}{1.5} = 2.0\times10^8\ \mathrm{m/s}$$
 
 ## 関連ページ
 
-- [光の回折と干渉（応用編）](light-interference.md)
-- [光の反射・屈折（中級編）](../../intermediate/waves/reflection-refraction.md)
+- [光の回折と干渉](light-interference.md)
+- [光の反射・屈折](../../intermediate/waves/reflection-refraction.md)

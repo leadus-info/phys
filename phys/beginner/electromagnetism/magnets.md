@@ -43,4 +43,4 @@ hierarchy:
 
 ## 関連ページ
 
-- [電磁石（初級編）](electromagnet.md)
+- [電磁石](electromagnet.md)

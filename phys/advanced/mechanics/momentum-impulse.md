@@ -49,5 +49,5 @@ $$2\times3 + 1\times0 = (2+1)v \quad\Longrightarrow\quad v = 2\ \mathrm{m/s}$$
 
 ## 関連ページ
 
-- [衝突と力学的エネルギー（応用編）](collision-energy.md)
-- [運動の法則（応用編）](laws-of-motion.md)
+- [衝突と力学的エネルギー](collision-energy.md)
+- [運動の法則](laws-of-motion.md)

@@ -55,5 +55,5 @@ $$U = \frac{1}{2}kx^2$$
 
 ## 関連ページ
 
-- [力学的エネルギーの保存（応用編）](mechanical-energy-conservation.md)
-- [仕事とエネルギー（中級編）](../../intermediate/mechanics/work-and-energy.md)
+- [力学的エネルギーの保存](mechanical-energy-conservation.md)
+- [仕事とエネルギー](../../intermediate/mechanics/work-and-energy.md)

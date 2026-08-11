@@ -39,5 +39,5 @@ requires:
 
 ## 関連ページ
 
-- [熱と温度（応用編）](heat-and-temperature.md)
-- [仕事とエネルギー（中級編）](../../intermediate/mechanics/work-and-energy.md)
+- [熱と温度](heat-and-temperature.md)
+- [仕事とエネルギー](../../intermediate/mechanics/work-and-energy.md)

@@ -56,5 +56,5 @@ $$V = 6.0 - 0.5\times2.0 = 5.0\ \mathrm{V}$$
 
 ## 関連ページ
 
-- [電界と電位とコンデンサー（応用編）](potential-and-capacitor.md)
-- [物質と電気抵抗（応用編）](resistance-and-matter.md)
+- [電界と電位とコンデンサー](potential-and-capacitor.md)
+- [物質と電気抵抗](resistance-and-matter.md)

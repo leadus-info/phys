@@ -46,5 +46,5 @@ requires:
 
 ## 関連ページ
 
-- [電気の通り道（初級編）](circuit-basics.md)
-- [電磁石（初級編）](electromagnet.md)
+- [電気の通り道](circuit-basics.md)
+- [電磁石](electromagnet.md)

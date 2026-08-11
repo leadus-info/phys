@@ -42,5 +42,5 @@ requires:
 
 ## 関連ページ
 
-- [磁界中の電流が受ける力（中級編）](force-on-current.md)
-- [電気の利用（初級編）](../../beginner/electromagnetism/electricity-usage.md)
+- [磁界中の電流が受ける力](force-on-current.md)
+- [電気の利用](../../beginner/electromagnetism/electricity-usage.md)

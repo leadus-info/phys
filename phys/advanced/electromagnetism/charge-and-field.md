@@ -51,5 +51,5 @@ $$E = 9.0\times10^9\times\frac{4.0\times10^{-6}}{0.2^2} = 9.0\times10^5\ \mathrm
 
 ## 関連ページ
 
-- [電界と電位とコンデンサー（応用編）](potential-and-capacitor.md)
-- [静電気と電流（中級編）](../../intermediate/electromagnetism/static-electricity.md)
+- [電界と電位とコンデンサー](potential-and-capacitor.md)
+- [静電気と電流](../../intermediate/electromagnetism/static-electricity.md)

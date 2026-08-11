@@ -45,5 +45,5 @@ requires:
 
 ## 関連ページ
 
-- [電気の利用（応用編）](../electromagnetism/electricity-utilization.md)
-- [熱の利用（応用編）](../heat/heat-utilization.md)
+- [電気の利用](../electromagnetism/electricity-utilization.md)
+- [熱の利用](../heat/heat-utilization.md)

@@ -51,5 +51,5 @@ $$\sum F_x = 0, \qquad \sum F_y = 0$$
 
 ## 関連ページ
 
-- [様々な力（応用編）](various-forces.md)
-- [運動の法則（応用編）](laws-of-motion.md)
+- [様々な力](various-forces.md)
+- [運動の法則](laws-of-motion.md)

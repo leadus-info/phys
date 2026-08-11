@@ -44,4 +44,4 @@ hierarchy:
 
 ## 関連ページ
 
-- [運動の表し方（応用編）](motion-description.md)
+- [運動の表し方](motion-description.md)

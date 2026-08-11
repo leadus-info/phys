@@ -48,5 +48,5 @@ $$R = 1.0\times10^{-6}\times\frac{2.0}{1.0\times10^{-6}} = 2.0\ \Omega$$
 
 ## 関連ページ
 
-- [電気の利用（応用編）](electricity-utilization.md)
-- [電流・電圧と抵抗（中級編）](../../intermediate/electromagnetism/ohms-law.md)
+- [電気の利用](electricity-utilization.md)
+- [電流・電圧と抵抗](../../intermediate/electromagnetism/ohms-law.md)

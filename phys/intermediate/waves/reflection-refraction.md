@@ -51,5 +51,5 @@ requires:
 
 ## 関連ページ
 
-- [凸レンズの働き（中級編）](convex-lens.md)
-- [光の性質（初級編）](../../beginner/waves/light.md)
+- [凸レンズの働き](convex-lens.md)
+- [光の性質](../../beginner/waves/light.md)

@@ -49,6 +49,6 @@ $$v = 0 + 2 \times 3 = 6\ \mathrm{m/s}, \qquad x = 0 \times 3 + \frac{1}{2}\time
 
 ## 関連ページ
 
-- [運動の表し方（応用編）](motion-description.md)
-- [運動の法則（応用編）](laws-of-motion.md)
-- [物体の落下運動（応用編）](free-fall-motion.md)
+- [運動の表し方](motion-description.md)
+- [運動の法則](laws-of-motion.md)
+- [物体の落下運動](free-fall-motion.md)

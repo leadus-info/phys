@@ -73,5 +73,5 @@ $$T = 2\pi\sqrt{\frac{2.45}{9.8}} = 2\pi\times0.5 = \pi \approx 3.14\ \mathrm{s}
 
 ## 関連ページ
 
-- [円運動（応用編）](circular-motion.md)
-- [振り子の運動（初級編）](../../beginner/mechanics/pendulum.md)
+- [円運動](circular-motion.md)
+- [振り子の運動](../../beginner/mechanics/pendulum.md)

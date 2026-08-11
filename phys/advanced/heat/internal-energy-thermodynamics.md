@@ -59,5 +59,5 @@ $$\Delta U = 500 - 200 = 300\ \mathrm{J}$$
 
 ## 関連ページ
 
-- [気体分子の運動と圧力（応用編）](gas-molecular-motion.md)
-- [熱の利用（応用編）](heat-utilization.md)
+- [気体分子の運動と圧力](gas-molecular-motion.md)
+- [熱の利用](heat-utilization.md)

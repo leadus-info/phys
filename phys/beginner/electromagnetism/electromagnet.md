@@ -49,6 +49,6 @@ requires:
 
 ## 関連ページ
 
-- [磁石の性質（初級編）](magnets.md)
-- [電流の働き（初級編）](current.md)
-- [電気の利用（初級編）](electricity-usage.md)
+- [磁石の性質](magnets.md)
+- [電流の働き](current.md)
+- [電気の利用](electricity-usage.md)

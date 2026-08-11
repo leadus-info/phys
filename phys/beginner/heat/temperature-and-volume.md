@@ -41,4 +41,4 @@ hierarchy:
 
 ## 関連ページ
 
-- [空気と水の性質（初級編）](air-and-water.md)
+- [空気と水の性質](air-and-water.md)

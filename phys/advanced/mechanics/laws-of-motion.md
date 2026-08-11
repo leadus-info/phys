@@ -51,5 +51,5 @@ $$a = \frac{F}{m} = \frac{6\ \mathrm{N}}{2\ \mathrm{kg}} = 3\ \mathrm{m/s^2}$$
 
 ## 関連ページ
 
-- [力のつり合い（応用編）](force-balance.md)
-- [物体の落下運動（応用編）](free-fall-motion.md)
+- [力のつり合い](force-balance.md)
+- [物体の落下運動](free-fall-motion.md)

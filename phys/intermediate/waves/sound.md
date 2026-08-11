@@ -52,5 +52,5 @@ $$340\ \mathrm{m/s} \times 3\ \mathrm{s} = 1020\ \mathrm{m}$$
 
 ## 関連ページ
 
-- [光の反射・屈折（中級編）](reflection-refraction.md)
-- [音の性質（初級編）](../../beginner/waves/sound.md)
+- [光の反射・屈折](reflection-refraction.md)
+- [音の性質](../../beginner/waves/sound.md)

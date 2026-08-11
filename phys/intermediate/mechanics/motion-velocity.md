@@ -51,5 +51,5 @@ $$\text{速さ} = \frac{1\ \mathrm{m}}{2\ \mathrm{s}} = 0.5\ \mathrm{m/s}$$
 
 ## 関連ページ
 
-- [力の働き（中級編）](force.md)
-- [力と運動（中級編）](force-and-motion.md)
+- [力の働き](force.md)
+- [力と運動](force-and-motion.md)

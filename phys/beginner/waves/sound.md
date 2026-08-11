@@ -37,4 +37,4 @@ hierarchy:
 
 ## 関連ページ
 
-- [光の性質（初級編）](light.md)
+- [光の性質](light.md)
