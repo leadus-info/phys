@@ -53,6 +53,12 @@
 | `fix` | 既存記事の修正 | `fix/phys/mechanics/velocity-acceleration-typo` |
 | `improve` | 既存記事の改善 | `improve/phys/mechanics/equation-of-motion-examples` |
 
+### ブランチ保護ルール
+
+- **`develop`ブランチへの直接変更は禁止**。反映は`main`・`develop`以外の作業用ブランチ（上記の`article`/`fix`/`improve`）からのPull Requestによるマージのみで行う。
+- **`main`ブランチへの直接変更も禁止**。反映は`develop`からのPull Requestによるマージのみで行う（本番リリースのタイミングでメンテナーが実施）。
+- GitHub側のbranch protection（PR必須化・直接push禁止の技術的強制）は、organizationがGitHub Freeプランのためリポジトリがprivateだと設定できない（Pro/Team以上が必要）。上記は運用上の取り決めとして遵守すること。
+
 ---
 
 ## 3. 記事を執筆する
