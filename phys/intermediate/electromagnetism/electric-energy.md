@@ -49,5 +49,5 @@ $$W = 500\ \mathrm{W} \times 60\ \mathrm{s} = 30000\ \mathrm{J}$$
 
 ## 関連ページ
 
-- [電流・電圧と抵抗（中級編）](ohms-law.md)
-- [静電気と電流（中級編）](static-electricity.md)
+- [電流・電圧と抵抗](ohms-law.md)
+- [静電気と電流](static-electricity.md)

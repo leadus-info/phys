@@ -53,6 +53,6 @@ $$x = v_0\cos\theta \cdot t, \qquad y = v_0\sin\theta \cdot t - \frac{1}{2}gt^2$
 
 ## 関連ページ
 
-- [剛体のつり合い（応用編）](rigid-body-balance.md)
-- [円運動（応用編）](circular-motion.md)
-- [物体の落下運動（応用編）](free-fall-motion.md)
+- [剛体のつり合い](rigid-body-balance.md)
+- [円運動](circular-motion.md)
+- [物体の落下運動](free-fall-motion.md)

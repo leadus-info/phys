@@ -45,5 +45,5 @@ $$v = f\lambda$$
 
 ## 関連ページ
 
-- [音と振動（応用編）](sound-and-vibration.md)
-- [光の反射・屈折（中級編）](../../intermediate/waves/reflection-refraction.md)
+- [音と振動](sound-and-vibration.md)
+- [光の反射・屈折](../../intermediate/waves/reflection-refraction.md)

@@ -41,4 +41,4 @@ hierarchy:
 
 ## 関連ページ
 
-- [温度と体積の変化（初級編）](temperature-and-volume.md)
+- [温度と体積の変化](temperature-and-volume.md)

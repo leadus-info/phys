@@ -45,5 +45,5 @@ $$T = t + 273$$
 
 ## 関連ページ
 
-- [熱の利用（応用編）](heat-utilization.md)
-- [温度と体積の変化（初級編）](../../beginner/heat/temperature-and-volume.md)
+- [熱の利用](heat-utilization.md)
+- [温度と体積の変化](../../beginner/heat/temperature-and-volume.md)

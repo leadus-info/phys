@@ -53,5 +53,5 @@ $$x = 2\ \mathrm{m} + 3\ \mathrm{m/s}\times4\ \mathrm{s} = 14\ \mathrm{m}$$
 
 ## 関連ページ
 
-- [直線運動の加速度（応用編）](acceleration.md)
-- [運動の速さと向き（中級編）](../../intermediate/mechanics/motion-velocity.md)
+- [直線運動の加速度](acceleration.md)
+- [運動の速さと向き](../../intermediate/mechanics/motion-velocity.md)

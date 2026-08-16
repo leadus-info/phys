@@ -53,5 +53,5 @@ $$E = 1.0\times10^{-6}\times(3.0\times10^8)^2 = 9.0\times10^{10}\ \mathrm{J}$$
 
 ## 関連ページ
 
-- [原子とスペクトル（応用編）](atomic-spectra.md)
-- [エネルギーとその利用（応用編）](../energy/energy-utilization.md)
+- [原子とスペクトル](atomic-spectra.md)
+- [エネルギーとその利用](../energy/energy-utilization.md)

@@ -67,5 +67,5 @@ $$\frac{1}{C} = \frac{1}{C_1} + \frac{1}{C_2}$$
 
 ## 関連ページ
 
-- [電荷と電界（応用編）](charge-and-field.md)
-- [電気回路の法則（応用編）](circuit-laws.md)
+- [電荷と電界](charge-and-field.md)
+- [電気回路の法則](circuit-laws.md)

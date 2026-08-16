@@ -51,5 +51,5 @@ $$v = v_0 - gt, \qquad y = v_0 t - \frac{1}{2}gt^2$$
 
 ## 関連ページ
 
-- [運動の法則（応用編）](laws-of-motion.md)
-- [運動エネルギーと位置エネルギー（応用編）](kinetic-potential-energy.md)
+- [運動の法則](laws-of-motion.md)
+- [運動エネルギーと位置エネルギー](kinetic-potential-energy.md)

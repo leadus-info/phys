@@ -47,5 +47,5 @@ $$f = \frac{340-0}{340-20}\times680 = \frac{340}{320}\times680 = 722.5\ \mathrm{
 
 ## 関連ページ
 
-- [音と振動（応用編）](sound-and-vibration.md)
-- [波の干渉と回折（応用編）](wave-interference-diffraction.md)
+- [音と振動](sound-and-vibration.md)
+- [波の干渉と回折](wave-interference-diffraction.md)

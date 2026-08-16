@@ -58,5 +58,5 @@ $$p = \frac{F}{S}$$
 
 ## 関連ページ
 
-- [力のつり合い（応用編）](force-balance.md)
-- [運動の法則（応用編）](laws-of-motion.md)
+- [力のつり合い](force-balance.md)
+- [運動の法則](laws-of-motion.md)

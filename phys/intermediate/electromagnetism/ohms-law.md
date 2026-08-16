@@ -57,5 +57,5 @@ $$\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2}$$
 
 ## 関連ページ
 
-- [回路と電流・電圧（中級編）](circuit-voltage.md)
-- [電気とそのエネルギー（中級編）](electric-energy.md)
+- [回路と電流・電圧](circuit-voltage.md)
+- [電気とそのエネルギー](electric-energy.md)

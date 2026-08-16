@@ -39,5 +39,5 @@ requires:
 
 ## 関連ページ
 
-- [電磁誘導と交流（応用編）](induction-and-ac.md)
-- [光の伝わり方（応用編）](../waves/light-propagation.md)
+- [電磁誘導と交流](induction-and-ac.md)
+- [光の伝わり方](../waves/light-propagation.md)

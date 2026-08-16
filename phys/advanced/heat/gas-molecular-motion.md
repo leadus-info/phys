@@ -53,5 +53,5 @@ $$\overline{\frac{1}{2}mv^2} = \frac{3}{2}\times1.38\times10^{-23}\times300 \app
 
 ## 関連ページ
 
-- [気体の内部エネルギーと熱力学第一法則（応用編）](internal-energy-thermodynamics.md)
-- [熱と温度（応用編）](heat-and-temperature.md)
+- [気体の内部エネルギーと熱力学第一法則](internal-energy-thermodynamics.md)
+- [熱と温度](heat-and-temperature.md)

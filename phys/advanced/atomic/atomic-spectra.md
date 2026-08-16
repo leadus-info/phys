@@ -43,5 +43,5 @@ $$f = \frac{1.63\times10^{-18}}{6.63\times10^{-34}} \approx 2.5\times10^{15}\ \m
 
 ## 関連ページ
 
-- [電子と光の粒子性・波動性（応用編）](electron-light-duality.md)
-- [原子核と素粒子（応用編）](nuclear-physics.md)
+- [電子と光の粒子性・波動性](electron-light-duality.md)
+- [原子核と素粒子](nuclear-physics.md)

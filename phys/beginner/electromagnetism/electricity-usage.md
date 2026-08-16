@@ -53,5 +53,5 @@ requires:
 
 ## 関連ページ
 
-- [電流の働き（初級編）](current.md)
-- [電磁石（初級編）](electromagnet.md)
+- [電流の働き](current.md)
+- [電磁石](electromagnet.md)

@@ -37,5 +37,5 @@ U字形磁石の間に導線を通し、電流を流すと、導線が動きま�
 
 ## 関連ページ
 
-- [電流がつくる磁界（中級編）](magnetic-field.md)
-- [電磁誘導と発電（中級編）](electromagnetic-induction.md)
+- [電流がつくる磁界](magnetic-field.md)
+- [電磁誘導と発電](electromagnetic-induction.md)

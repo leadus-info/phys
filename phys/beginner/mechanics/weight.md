@@ -44,5 +44,5 @@ hierarchy:
 
 ## 関連ページ
 
-- [てこの規則性（初級編）](lever.md)
-- [振り子の運動（初級編）](pendulum.md)
+- [てこの規則性](lever.md)
+- [振り子の運動](pendulum.md)

@@ -38,5 +38,5 @@ hierarchy:
 
 ## 関連ページ
 
-- [電流の働き（初級編）](current.md)
-- [磁石の性質（初級編）](magnets.md)
+- [電流の働き](current.md)
+- [磁石の性質](magnets.md)

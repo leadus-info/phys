@@ -58,5 +58,5 @@ $$\lambda = \frac{6.63\times10^{-34}}{9.1\times10^{-31}\times1.0\times10^{6}} \a
 
 ## 関連ページ
 
-- [原子とスペクトル（応用編）](atomic-spectra.md)
-- [光の伝わり方（応用編）](../waves/light-propagation.md)
+- [原子とスペクトル](atomic-spectra.md)
+- [光の伝わり方](../waves/light-propagation.md)

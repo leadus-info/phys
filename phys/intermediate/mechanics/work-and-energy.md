@@ -61,6 +61,6 @@ $$P = \frac{60\ \mathrm{J}}{5\ \mathrm{s}} = 12\ \mathrm{W}$$
 
 ## 関連ページ
 
-- [力と運動（中級編）](force-and-motion.md)
-- [力学的エネルギーの保存（中級編）](mechanical-energy-conservation.md)
-- [てこの規則性（初級編）](../../beginner/mechanics/lever.md)
+- [力と運動](force-and-motion.md)
+- [力学的エネルギーの保存](mechanical-energy-conservation.md)
+- [てこの規則性](../../beginner/mechanics/lever.md)

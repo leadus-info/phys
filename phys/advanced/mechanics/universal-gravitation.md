@@ -67,5 +67,5 @@ $$U = -6.67\times10^{-11}\times\frac{6.0\times10^{24}\times10}{1.0\times10^{7}} 
 
 ## 関連ページ
 
-- [円運動（応用編）](circular-motion.md)
-- [力学的エネルギーの保存（応用編）](mechanical-energy-conservation.md)
+- [円運動](circular-motion.md)
+- [力学的エネルギーの保存](mechanical-energy-conservation.md)

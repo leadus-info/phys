@@ -40,4 +40,4 @@ hierarchy:
 
 ## 関連ページ
 
-- [音の性質（初級編）](sound.md)
+- [音の性質](sound.md)

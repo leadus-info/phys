@@ -50,5 +50,5 @@ $\boldsymbol{F_1}$、$\boldsymbol{F_2}$ を表す矢印を2辺とする平行四
 
 ## 関連ページ
 
-- [力の働き（中級編）](force.md)
-- [水圧と浮力（中級編）](pressure-buoyancy.md)
+- [力の働き](force.md)
+- [水圧と浮力](pressure-buoyancy.md)

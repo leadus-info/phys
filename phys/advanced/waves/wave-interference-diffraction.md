@@ -44,5 +44,5 @@ $$
 
 ## 関連ページ
 
-- [波の伝わり方（応用編）](wave-propagation.md)
-- [光の回折と干渉（応用編）](light-interference.md)
+- [波の伝わり方](wave-propagation.md)
+- [光の回折と干渉](light-interference.md)

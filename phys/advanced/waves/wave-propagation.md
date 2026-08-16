@@ -45,5 +45,5 @@ $$y = 2\sin\left\{2\pi\left(\frac{1}{4}-\frac{2}{8}\right)\right\} = 2\sin(0) = 
 
 ## 関連ページ
 
-- [波の干渉と回折（応用編）](wave-interference-diffraction.md)
-- [波の性質（応用編）](wave-properties.md)
+- [波の干渉と回折](wave-interference-diffraction.md)
+- [波の性質](wave-properties.md)

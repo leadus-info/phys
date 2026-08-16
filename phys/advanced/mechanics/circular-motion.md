@@ -62,5 +62,5 @@ $$F = mr\omega^2 = 0.2\times0.5\times(2\pi)^2 \approx 3.9\ \mathrm{N}$$
 
 ## 関連ページ
 
-- [単振動（応用編）](simple-harmonic-motion.md)
-- [万有引力（応用編）](universal-gravitation.md)
+- [単振動](simple-harmonic-motion.md)
+- [万有引力](universal-gravitation.md)

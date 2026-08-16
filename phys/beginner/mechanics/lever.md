@@ -53,5 +53,5 @@ requires:
 
 ## 関連ページ
 
-- [物と重さ（初級編）](weight.md)
-- [振り子の運動（初級編）](pendulum.md)
+- [物と重さ](weight.md)
+- [振り子の運動](pendulum.md)

@@ -51,5 +51,5 @@ $$\frac{V_1}{V_2} = \frac{N_1}{N_2}$$
 
 ## 関連ページ
 
-- [電磁波（応用編）](electromagnetic-waves.md)
-- [電磁誘導と発電（中級編）](../../intermediate/electromagnetism/electromagnetic-induction.md)
+- [電磁波](electromagnetic-waves.md)
+- [電磁誘導と発電](../../intermediate/electromagnetism/electromagnetic-induction.md)

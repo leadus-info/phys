@@ -51,5 +51,5 @@ $$f = \frac{340}{4\times0.2} = 425\ \mathrm{Hz}$$
 
 ## 関連ページ
 
-- [波の性質（応用編）](wave-properties.md)
-- [音の性質（中級編）](../../intermediate/waves/sound.md)
+- [波の性質](wave-properties.md)
+- [音の性質](../../intermediate/waves/sound.md)

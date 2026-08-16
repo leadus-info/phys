@@ -51,5 +51,5 @@ requires:
 
 ## 関連ページ
 
-- [物と重さ（初級編）](weight.md)
-- [てこの規則性（初級編）](lever.md)
+- [物と重さ](weight.md)
+- [てこの規則性](lever.md)

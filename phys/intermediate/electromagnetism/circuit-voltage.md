@@ -58,5 +58,5 @@ $$V = V_1 = V_2$$
 
 ## 関連ページ
 
-- [電流・電圧と抵抗（中級編）](ohms-law.md)
-- [電流の働き（初級編）](../../beginner/electromagnetism/current.md)
+- [電流・電圧と抵抗](ohms-law.md)
+- [電流の働き](../../beginner/electromagnetism/current.md)
