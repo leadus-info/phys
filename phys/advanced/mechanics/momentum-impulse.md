@@ -21,11 +21,11 @@ requires:
 
 質量$m$の物体が速度$\boldsymbol{v}$で運動しているとき、$\boldsymbol{p} = m\boldsymbol{v}$を物体の**運動量**といいます。運動量は速度と同じ向きをもつベクトルです。
 
-物体に力$\boldsymbol{F}$が時間$\Delta t$の間はたらき続けたとき、$\boldsymbol{F}\Delta t$を、その力による**力積**といいます。運動方程式$m\boldsymbol{a}=\boldsymbol{F}$から、次の関係が導けます。
+物体に力$\boldsymbol{F}$が時間$\Delta t$の間はたらき続けたとき、$\boldsymbol{F}\Delta t$を、その力による**力積**といいます。力を受ける前の速度を$\boldsymbol{v}$、受けた後の速度を$\boldsymbol{v}'$とすると、運動方程式$m\boldsymbol{a}=\boldsymbol{F}$に加速度$\boldsymbol{a}=\dfrac{\boldsymbol{v}'-\boldsymbol{v}}{\Delta t}$を代入して整理することで、次の関係が導けます。
 
-$$m\boldsymbol{v}' - m\boldsymbol{v} = \boldsymbol{F}\Delta t$$
+$$m\cdot\frac{\boldsymbol{v}'-\boldsymbol{v}}{\Delta t} = \boldsymbol{F} \quad\Longrightarrow\quad m\boldsymbol{v}' - m\boldsymbol{v} = \boldsymbol{F}\Delta t$$
 
-**物体の運動量の変化は、物体が受けた力積に等しくなります。** これを運動量と力積の関係といいます。力が時間的に変化する場合（バットでボールを打つときのように、短時間だけ大きな力がはたらく場合など）も、この関係は成り立ちます。
+**物体の運動量の変化は、物体が受けた力積に等しくなります。** これを運動量と力積の関係といいます。力が時間的に変化する場合（バットでボールを打つときのように、短時間だけ大きな力がはたらく場合など）は、力積を平均の力と時間の積（$F$-$t$グラフの面積に相当）として定義し直すことで、この関係は成り立ちます。
 
 **例題**：質量$0.5\ \mathrm{kg}$のボールが静止した状態から、力積$4\ \mathrm{kg\cdot m/s}$を受けたときの速さを求める。
 
