@@ -53,7 +53,7 @@ $$r = \frac{mv}{qB}$$
 
 となります。**例題**：質量$1.0\times10^{-27}\ \mathrm{kg}$、電気量$1.6\times10^{-19}\ \mathrm{C}$の粒子が、磁束密度$0.20\ \mathrm{T}$の磁界に垂直に速さ$4.0\times10^{5}\ \mathrm{m/s}$で入射したときの円運動の半径を求める。
 
-$$r = \frac{1.0\times10^{-27}\times4.0\times10^{5}}{1.6\times10^{-19}\times0.20} \approx 1.25\times10^{-2}\ \mathrm{m}$$
+$$r = \frac{1.0\times10^{-27}\times4.0\times10^{5}}{1.6\times10^{-19}\times0.20} \approx 1.3\times10^{-2}\ \mathrm{m}$$
 
 ## まとめ
 
