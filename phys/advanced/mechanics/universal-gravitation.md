@@ -15,6 +15,10 @@ hierarchy:
 requires:
   - title: 円運動
     path: circular-motion.md
+  - title: 運動エネルギーと位置エネルギー
+    path: kinetic-potential-energy.md
+  - title: 力学的エネルギーの保存
+    path: mechanical-energy-conservation.md
 ---
 
 ## ケプラーの法則
