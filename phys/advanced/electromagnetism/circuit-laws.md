@@ -17,6 +17,8 @@ requires:
     path: potential-and-capacitor.md
   - title: 物質と電気抵抗
     path: resistance-and-matter.md
+  - title: 回路と電流・電圧
+    path: ../../intermediate/electromagnetism/circuit-voltage.md
 ---
 
 ## 回路網の法則
