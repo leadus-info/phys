@@ -71,11 +71,15 @@ $$\frac{\sin\theta_1}{\sin\theta_2} = \frac{v_1}{v_2} = 2 \quad\Longrightarrow\q
 
 ## 波の式
 
-$x$軸の正の向きに、速さ$v$、振幅$A$、周期$T$、波長$\lambda$で伝わる波を考えます。原点での媒質の変位が$y = A\sin\dfrac{2\pi}{T}t$と表される場合、位置$x$での波は原点より$\dfrac{x}{v}$だけ遅れて同じ振動をするので、時刻$t$、位置$x$での変位$y$は、次のように表されます。
+$x$軸の正の向きに、速さ$v$、振幅$A$、周期$T$、波長$\lambda$で伝わる波を考えます。原点での媒質の変位が$y = A\sin\dfrac{2\pi}{T}t$と表される場合、位置$x$での波は原点より$\dfrac{x}{v}$だけ遅れて同じ振動をするので、時刻$t$、位置$x$での変位$y$は、原点の式の$t$を$t-\dfrac{x}{v}$に置き換えて
+
+$$y = A\sin\frac{2\pi}{T}\left(t - \frac{x}{v}\right)$$
+
+と表されます。ここで$v=\lambda/T$の関係を用いると$\dfrac{x}{v} = \dfrac{xT}{\lambda}$と書き換えられるので、これを代入すると
 
 $$y = A\sin\left\{2\pi\left(\frac{t}{T} - \frac{x}{\lambda}\right)\right\}$$
 
-（$v=\lambda/T$の関係を用いて$x/v = xT/\lambda$と書き換えた）。この式を**波の式**といい、任意の時刻・位置での媒質の変位を求めることができます。
+となります。この式を**波の式**といい、任意の時刻・位置での媒質の変位を求めることができます。
 
 **例題**：振幅$2\ \mathrm{cm}$、周期$4\ \mathrm{s}$、波長$8\ \mathrm{cm}$の波について、$t=1\ \mathrm{s}$、$x=2\ \mathrm{cm}$での変位を求める。
 
