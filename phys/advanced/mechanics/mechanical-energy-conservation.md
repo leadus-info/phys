@@ -47,9 +47,11 @@ $$\Delta K = -\Delta U \quad\Longrightarrow\quad \Delta(K+U) = 0$$
 
 同じ高さから物体を滑らせる実験で斜面の摩擦の大きさを変えると、摩擦が小さいほど地面到達時の速さが理論値$\sqrt{2gh}$に近づき、摩擦が大きいほど遅くなることが確認できます。これは、摩擦力がした仕事の分だけ力学的エネルギーが失われていることを裏付けています。
 
-**例題**：高さ$5\ \mathrm{m}$の位置で静止していた質量$2\ \mathrm{kg}$の物体が、摩擦のない斜面を滑り降りて地面に達したときの速さを求める（$g=9.8\ \mathrm{m/s^2}$）。
+**例題**：高さ$5\ \mathrm{m}$の位置で静止していた質量$2\ \mathrm{kg}$の物体が、摩擦のない斜面を滑り降りて地面に達したときの速さを求める（$g=9.8\ \mathrm{m/s^2}$、有効数字2桁で）。
 
-$$mgh = \frac{1}{2}mv^2 \quad\Longrightarrow\quad v = \sqrt{2gh} = \sqrt{2\times9.8\times5} \approx 9.9\ \mathrm{m/s}$$
+力学的エネルギー保存則より$mgh = \frac{1}{2}mv^2$が成り立ちます。両辺を$m$で割ると（終端の速さが質量によらないことがわかります）、
+
+$$gh = \frac{1}{2}v^2 \quad\Longrightarrow\quad v = \sqrt{2gh} = \sqrt{2\times9.8\times5} \approx 9.9\ \mathrm{m/s}$$
 
 ## まとめ
 
