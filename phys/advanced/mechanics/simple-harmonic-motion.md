@@ -55,9 +55,9 @@ $$T = 2\pi\sqrt{\frac{m}{k}}$$
 
 おもりの質量やばね定数を変えて周期を測定する実験を行うと、この関係が確かめられます。
 
-**例題**：ばね定数$k=8\ \mathrm{N/m}$のばねに質量$2\ \mathrm{kg}$のおもりをつけたばね振り子の周期を求める。
+**例題**：ばね定数$k=2\ \mathrm{N/m}$のばねに質量$2\ \mathrm{kg}$のおもりをつけたばね振り子の周期を求める。
 
-$$T = 2\pi\sqrt{\frac{2}{8}} = 2\pi\times\frac12 = \pi \approx 3.14\ \mathrm{s}$$
+$$T = 2\pi\sqrt{\frac{2}{2}} = 2\pi \approx 6.28\ \mathrm{s}$$
 
 ## 単振り子
 
