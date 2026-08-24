@@ -17,6 +17,10 @@ requires:
     path: ../../intermediate/waves/reflection-refraction.md
   - title: 凸レンズの働き
     path: ../../intermediate/waves/convex-lens.md
+  - title: 波の性質
+    path: wave-properties.md
+  - title: 波の伝わり方
+    path: wave-propagation.md
 ---
 
 ## 光の速さと波長
