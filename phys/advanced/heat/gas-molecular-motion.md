@@ -45,6 +45,12 @@ $$pV = \frac{1}{3}Nm\overline{v^2}$$
 
 （$V=L^3$は容器の体積）。
 
+この関係を状態方程式$pV=nRT$と比較すると、物質量$n$は分子数$N$とアボガドロ数$N_A$を用いて$n=\dfrac{N}{N_A}$と表せるので、
+
+$$\frac{1}{3}Nm\overline{v^2} = \frac{N}{N_A}RT \quad\Longrightarrow\quad \frac{1}{2}m\overline{v^2} = \frac{3}{2}\times\frac{R}{N_A}T$$
+
+ここで$k_B = \dfrac{R}{N_A}$（すなわち$R=k_BN_A$）とおくと、この関係は次のように書き直せます。係数$\frac{3}{2}$が現れるのは、分子の運動が$x,y,z$の3方向に等しく分配される（等方性）ためで、1方向あたりに割り当てられるエネルギーは$\frac{1}{2}k_BT$であり、3方向分を合わせるとちょうど$\frac{3}{2}k_BT$になります。
+
 $$\overline{\frac{1}{2}mv^2} = \frac{3}{2}k_BT$$
 
 （$k_B\approx1.38\times10^{-23}\ \mathrm{J/K}$はボルツマン定数）。これは、温度が原子・分子の熱運動の激しさを表す量であるという、物理基礎で学んだ考え方を、定量的な関係として裏付けるものです。
