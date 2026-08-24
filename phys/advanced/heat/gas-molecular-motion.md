@@ -15,6 +15,8 @@ hierarchy:
 requires:
   - title: 熱と温度
     path: heat-and-temperature.md
+  - title: 運動量と力積
+    path: ../mechanics/momentum-impulse.md
 ---
 
 ## 気体分子の運動と圧力
