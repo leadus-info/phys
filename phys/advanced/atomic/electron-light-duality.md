@@ -17,6 +17,10 @@ requires:
     path: ../waves/light-propagation.md
   - title: 電荷と電界
     path: ../electromagnetism/charge-and-field.md
+  - title: 電流がつくる磁界
+    path: ../../intermediate/electromagnetism/magnetic-field.md
+  - title: 波の干渉と回折
+    path: ../waves/wave-interference-diffraction.md
 ---
 
 ## 電子の発見
