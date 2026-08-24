@@ -17,6 +17,8 @@ requires:
     path: ../../intermediate/electromagnetism/magnetic-field.md
   - title: 磁界中の電流が受ける力
     path: ../../intermediate/electromagnetism/force-on-current.md
+  - title: 円運動
+    path: ../mechanics/circular-motion.md
 ---
 
 ## 直線電流・円電流がつくる磁界
