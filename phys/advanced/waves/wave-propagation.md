@@ -15,6 +15,8 @@ hierarchy:
 requires:
   - title: 波の性質
     path: wave-properties.md
+  - title: 光の反射・屈折
+    path: ../../intermediate/waves/reflection-refraction.md
 ---
 
 ## 波面とホイヘンスの原理
