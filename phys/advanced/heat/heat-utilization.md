@@ -17,6 +17,8 @@ requires:
     path: heat-and-temperature.md
   - title: 運動エネルギーと位置エネルギー
     path: ../mechanics/kinetic-potential-energy.md
+  - title: 力学的エネルギーの保存
+    path: ../mechanics/mechanical-energy-conservation.md
 ---
 
 ## 熱の移動
