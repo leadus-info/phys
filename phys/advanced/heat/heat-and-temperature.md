@@ -15,6 +15,8 @@ hierarchy:
 requires:
   - title: 温度と体積の変化
     path: ../../beginner/heat/temperature-and-volume.md
+  - title: 運動エネルギーと位置エネルギー
+    path: ../mechanics/kinetic-potential-energy.md
 ---
 
 ## 熱運動としての温度
