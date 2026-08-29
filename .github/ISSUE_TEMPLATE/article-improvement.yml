@@ -1,8 +1,6 @@
 name: 既存記事の改善提案
 description: 既存記事の内容・構成の大幅な変更や見直しを提案する
 title: "[改善] "
-labels:
-  - improvement
 body:
   - type: input
     id: article
@@ -34,4 +32,6 @@ body:
       label: 確認事項
       options:
         - label: 誤字・表記ゆれなど軽微な修正のみの場合は、issueを立てず直接PRを出すことを理解した
+          required: true
+        - label: 起票後、深刻度に応じて`impact: high`(誤った理解に導かれる/論理破綻)・`impact: medium`(説明不足・詰め込み)・`impact: low`(些末な改善余地)のいずれかのラベルを付けることを理解した
           required: true
