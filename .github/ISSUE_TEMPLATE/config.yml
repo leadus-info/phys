@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 貢献の手順
-    url: https://github.com/leadus-info/docs/blob/main/contribution/WORKFLOW.md
+  - name: 貢献ガイド
+    url: https://github.com/leadus-info/docs/blob/main/contribution/CONTRIBUTING.md
     about: issueの立て方・PRの出し方など、貢献の全体的な流れはこちらを参照してください。

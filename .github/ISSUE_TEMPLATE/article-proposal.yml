@@ -17,7 +17,7 @@ body:
     id: stage
     attributes:
       label: 対象難易度
-      description: コントリビューションガイド（docs）の stage に対応する難易度を選んでください。
+      description: 執筆ガイド（docs）の stage に対応する難易度を選んでください。
       options:
         - beginner（初級編）
         - intermediate（中級編）
