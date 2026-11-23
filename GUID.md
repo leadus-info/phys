@@ -1,7 +1,7 @@
 # 物理 科目別補足
 
 この補足は、物理分野の記事を執筆する際の追加ルールです。\
-共通ルールは[コントリビューションガイド](https://github.com/leadus-info/docs/blob/main/contribution/CONTRIBUTING.md)を参照してください。
+共通ルールは[執筆ガイド](https://github.com/leadus-info/docs/blob/main/contribution/STYLE_GUIDE.md)を参照してください。
 
 ---
 

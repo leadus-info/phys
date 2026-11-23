@@ -8,9 +8,9 @@ Leadusは、あらゆる分野の学問知識をオープンに集約・公開�
 全科目に共通する文書は[docs](https://github.com/leadus-info/docs)リポジトリで管理しています。
 
 - 理念: [マニフェスト](https://github.com/leadus-info/docs/blob/main/MANIFEST.md)
-- 記事の配置・執筆ルール: [コントリビューションガイド](https://github.com/leadus-info/docs/blob/main/contribution/CONTRIBUTING.md)
+- 貢献の方法と、記事の提案から公開までの手順: [貢献ガイド](https://github.com/leadus-info/docs/blob/main/contribution/CONTRIBUTING.md)
+- 記事の配置・執筆ルール: [執筆ガイド](https://github.com/leadus-info/docs/blob/main/contribution/STYLE_GUIDE.md)
 - 物理固有の執筆ルール: [GUID.md](GUID.md)
-- 記事の提案から公開までの手順: [貢献の手順](https://github.com/leadus-info/docs/blob/main/contribution/WORKFLOW.md)
 
 ## ライセンス
 
